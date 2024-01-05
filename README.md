@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Rathor</h1>
-<h3 align="center">I am a student of TIET</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysingh81&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysingh81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysingh81" alt="ajaysingh81" /></a> </p>
 
-- 🔭 I’m currently working on **Major project**
+- 🔭 I’m currently working on **DevOps Project**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps Tools**
 
-- 💬 Ask me about **Software development**
+- 💬 Ask me about **DevOps and Cloud**
 
 - 📫 How to reach me **singhajay22036@gmail.com**
 
